@@ -1,0 +1,163 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Categoria 1"
+    },
+    {
+      "id": 2,
+      "name": "Categoria 2"
+    },
+    {
+      "id": 3,
+      "name": "Categoria 3"
+    },
+    {
+      "id": 4,
+      "name": "Categoria 4"
+    },
+    {
+      "id": 5,
+      "name": "Categoria 5"
+    },
+    {
+      "id": 6,
+      "name": "Categoria 6"
+    },
+    {
+      "id": 7,
+      "name": "Categoria 7"
+    },
+    {
+      "id": 8,
+      "name": "Categoria 8"
+    },
+    {
+      "id": 9,
+      "name": "Categoria 9"
+    },
+    {
+      "id": 10,
+      "name": "Categoria 10"
+    },
+    {
+      "name": "aaaa",
+      "description": "bbbb",
+      "id": 11
+    },
+    {
+      "name": "ccccc",
+      "description": "xpto",
+      "id": 12
+    },
+    {
+      "name": "ddddd",
+      "description": "xpto",
+      "id": 12
+    },
+    {
+      "name": "categoria exemplo",
+      "description": "descricao",
+      "id": 13
+    },
+    {
+      "name": "nova categoria",
+      "description": "nova descricao",
+      "id": 14
+    },
+    {
+      "name": "1111",
+      "description": "222",
+      "id": 15
+    },
+    {
+      "name": "2222",
+      "description": "333",
+      "id": 16
+    },
+    {
+      "name": "4444",
+      "description": "5555",
+      "id": 17
+    },
+    {
+      "name": "66666",
+      "description": "777777",
+      "id": 18
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "Video 1",
+      "description": "Descrição do video 1",
+      "category_id": 1,
+      "thumbnail_url": "https://image.dummyjson.com/150/000000",
+      "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Video 2",
+      "description": "Descrição do video 2",
+      "category_id": 1,
+      "thumbnail_url": "https://image.dummyjson.com/150/ffffff",
+      "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Video 3",
+      "description": "Descrição do video 3",
+      "category_id": 2,
+      "thumbnail_url": "https://image.dummyjson.com/150/E91E63",
+      "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Video 4",
+      "description": "Descrição do video 4",
+      "category_id": 2,
+      "thumbnail_url": "https://image.dummyjson.com/150/4CAF50",
+      "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+    },
+    {
+      "id": 5,
+      "title": "Video 5",
+      "description": "Descrição do video 5",
+      "category_id": 3,
+      "thumbnail_url": "https://image.dummyjson.com/150/FFC107",
+      "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+    },
+    {
+      "id": 6,
+      "title": "Video 6",
+      "description": "Descrição do video 6",
+      "category_id": 3,
+      "thumbnail_url": "https://image.dummyjson.com/150/9C27B0",
+      "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+    },
+    {
+      "id": 7,
+      "title": "Video 7",
+      "description": "Descrição do video 7",
+      "category_id": 4,
+      "thumbnail_url": "https://image.dummyjson.com/150/3F51B5",
+      "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+    },
+    {
+      "id": 8,
+      "title": "Video 8",
+      "description": "Descrição do video 8",
+      "category_id": 4,
+      "thumbnail_url": "https://image.dummyjson.com/150/2196F3",
+      "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    },
+    {
+      "id": 9,
+      "title": "Video 9",
+      "description": "Descrição do video 9",
+      "category_id": 5,
+      "thumbnail_url": "https://image.dummyjson.com/150/03A9F4",
+      "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+    }
+  ]
+}
